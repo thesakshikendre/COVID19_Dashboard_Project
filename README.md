@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **[Sakshi Kendre]**
-- Data Scientist | Full-Stack Developer
+- Data Analyst | Full-Stack Developer
 - LinkedIn: [www.linkedin.com/in/sakshi-kendre]
 
 ## 🙏 Acknowledgments
