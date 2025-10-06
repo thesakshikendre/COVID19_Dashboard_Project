@@ -167,9 +167,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **[Sakshi Kendre]**
 - Data Scientist | Full-Stack Developer
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-- Portfolio: [your-portfolio]
+- LinkedIn: [www.linkedin.com/in/sakshi-kendre]
 
 ## 🙏 Acknowledgments
 
